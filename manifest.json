@@ -1,0 +1,13 @@
+{
+  "name": "予備試験RPG",
+  "short_name": "予備試験RPG",
+  "description": "予備試験合格を目指すRPG学習アプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#080a0f",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
